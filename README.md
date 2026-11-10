@@ -1,16 +1,31 @@
-# About Me
+# สวัสดีครับ 👋
 
-<!--
-**zetxero4/zetxero4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- แนะนำตัวสั้นๆ 1–2 ประโยค: คุณคือใคร ทำอะไร -->
+_เขียนแนะนำตัวสั้นๆ ตรงนี้_
 
-Here are some ideas to get you started:
+## 🙋 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 กำลังทำ: _..._
+- 🌱 กำลังเรียนรู้: _..._
+- 👯 อยากร่วมงานในเรื่อง: _..._
+- 💬 ถามผมได้เรื่อง: _..._
+- ⚡ Fun fact: _..._
+
+## 🛠️ Tech Stack / Tools
+
+<!-- ใส่ภาษา เฟรมเวิร์ก หรือเครื่องมือที่ใช้จริง -->
+- **Languages:** _..._
+- **Frameworks / Libraries:** _..._
+- **Tools:** _..._
+
+## 🚀 Projects
+
+<!-- เพิ่ม/ลบแถวตามจริง -->
+| Project | รายละเอียด | ลิงก์ |
+|---------|------------|-------|
+| _ชื่อโปรเจกต์_ | _อธิบายสั้นๆ_ | _ลิงก์_ |
+
+## 📫 ติดต่อ
+
+<!-- ใส่เฉพาะช่องทางที่อยากเปิดเผยต่อสาธารณะ -->
+- _ช่องทางติดต่อ_
