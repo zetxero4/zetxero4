@@ -29,6 +29,14 @@ _เขียนแนะนำตัวสั้นๆ ตรงนี้_
 |---------|------------|-------|
 | _ชื่อโปรเจกต์_ | _อธิบายสั้นๆ_ | _ลิงก์_ |
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zetxero4/zetxero4/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zetxero4/zetxero4/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/zetxero4/zetxero4/output/github-snake.svg" />
+</picture>
+
 ## 📫 ติดต่อ
 
 <p align="center">
