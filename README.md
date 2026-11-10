@@ -55,5 +55,5 @@ _เขียนแนะนำตัวสั้นๆ ตรงนี้_
   <!-- ✍️ Writing & developer communities -->
   <a href="https://medium.com/@saharatyokthuan"><img src="https://img.shields.io/static/v1?label=&message=&color=000000&logo=medium&logoColor=white&style=for-the-badge" alt="Medium" /></a>
   <a href="https://dev.to/saharatyokthuan"><img src="https://img.shields.io/static/v1?label=&message=&color=0A0A0A&logo=devdotto&logoColor=white&style=for-the-badge" alt="dev.to" /></a>
-  <a href="https://stackoverflow.com/users/33244558/saharat-yokthuan?tab=profile"><img src="https://img.shields.io/static/v1?label=&message=&color=F58025&logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" /></a>
+  <a href="https://stackoverflow.com/users:saharat-yokthuan?tab=profile"><img src="https://img.shields.io/static/v1?label=&message=&color=F58025&logo=stackoverflow&logoColor=white&style=for-the-badge" alt="Stack Overflow" /></a>
 </p>
