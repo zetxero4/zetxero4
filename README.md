@@ -1,3 +1,6 @@
+<p align="right">
+  <a href="https://github.com/zetxero4/zetxero4/README.md"><b>🇹🇭 ภาษาไทย</b></a> · <b>🇬🇧 English</b>
+</p>
 # สวัสดีครับ 👋
 
 <!-- แนะนำตัวสั้นๆ 1–2 ประโยค: คุณคือใคร ทำอะไร -->
